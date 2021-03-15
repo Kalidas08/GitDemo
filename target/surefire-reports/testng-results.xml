@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="36" started-at="2020-08-19T19:17:31 IST" finished-at="2020-08-19T19:17:31 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="36" started-at="2020-08-19T19:17:31 IST" finished-at="2020-08-19T19:17:31 IST">
+      <class name="mavenProjectTest.mavenProj.RestAPITest">
+        <test-method status="PASS" signature="get()[pri:0, instance:mavenProjectTest.mavenProj.RestAPITest@6ddf90b0]" name="get" duration-ms="1" started-at="2020-08-19T19:17:31 IST" finished-at="2020-08-19T19:17:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+        <test-method status="PASS" signature="post()[pri:0, instance:mavenProjectTest.mavenProj.RestAPITest@6ddf90b0]" name="post" duration-ms="0" started-at="2020-08-19T19:17:31 IST" finished-at="2020-08-19T19:17:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post -->
+      </class> <!-- mavenProjectTest.mavenProj.RestAPITest -->
+      <class name="mavenProjectTest.mavenProj.SeleniumTest">
+        <test-method status="PASS" signature="element()[pri:0, instance:mavenProjectTest.mavenProj.SeleniumTest@2b2948e2]" name="element" duration-ms="3" started-at="2020-08-19T19:17:31 IST" finished-at="2020-08-19T19:17:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- element -->
+        <test-method status="PASS" signature="webTable()[pri:0, instance:mavenProjectTest.mavenProj.SeleniumTest@2b2948e2]" name="webTable" duration-ms="0" started-at="2020-08-19T19:17:31 IST" finished-at="2020-08-19T19:17:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webTable -->
+      </class> <!-- mavenProjectTest.mavenProj.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
